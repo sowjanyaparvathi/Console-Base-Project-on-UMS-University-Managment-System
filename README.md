@@ -76,4 +76,4 @@ Prevent duplicate roll numbers
 
 Case-insensitive name matching
 
-Let me know if you'd like a markdown version of this (with headings, bold/italic, etc.) or if you're uploading to GitHub—I can format it perfectly for that too.
+
